@@ -9,7 +9,5 @@ class GithubApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail();
     }
-
 }
